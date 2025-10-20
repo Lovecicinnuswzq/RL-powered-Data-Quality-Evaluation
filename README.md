@@ -1,1 +1,2 @@
 # RL-powered-Data-Quality-Evaluation
+This repository contains the resources used in our study on reinforcement learning-powered data quality evaluation. It provides a list of training, validation, and test images used in our experiments, along with the training code. The original image files from MOCS and SODA datasets are not included here. Researchers interested in accessing these datasets should contact the respective dataset authors or data owners.
